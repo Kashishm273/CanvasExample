@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyCanvas</string>
+    <string name="keep_tapping">Keep tapping!</string>
+    <string name="done">Done!</string>
+    <string name="open_pie_activity">Open pie activity</string>
+    <string name="tap_anywhere">Tap anywhere to start</string>
+</resources>
